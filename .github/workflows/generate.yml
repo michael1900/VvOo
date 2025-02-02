@@ -3,6 +3,7 @@ name: Generate and Publish M3U Files
 on:
   schedule:
     - cron: '0 */2 * * *' # Runs every 2 hours
+  workflow_dispatch:
   push:
     branches:
       - main
