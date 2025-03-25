@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1+1 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",1+1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/229523379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TECHNO (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",24 TECHNO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -447,20 +454,6 @@ https://joaquinito02.es/vavoo/811110208.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/907416557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ILLUSION PLUS (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ILLUSION PLUS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/3763370506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDIA TV (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",INDIA TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/2513136320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ISTORIYA (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ISTORIYA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -489,6 +482,13 @@ https://joaquinito02.es/vavoo/2066915637.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2741559865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KIDS (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/8265324.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KINO CINEMA (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KINO CINEMA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -531,13 +531,6 @@ https://joaquinito02.es/vavoo/110753114.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3265997499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KINO PLUS (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KINO PLUS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/2099562286.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KINO PREMIUM (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KINO PREMIUM (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -825,13 +818,6 @@ https://joaquinito02.es/vavoo/1227689972.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3035071846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NANO TV (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NANO TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/1083914547.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASHE KINO (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NASHE KINO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -853,13 +839,6 @@ https://joaquinito02.es/vavoo/2614433133.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2701430610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEVO MUSIC (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NEVO MUSIC (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/2146269052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NICKELODEON (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -895,13 +874,6 @@ https://joaquinito02.es/vavoo/3337128760.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3241553384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONE.BY RUS (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ONE.BY RUS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/2650429775.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",OUTDOOR CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -930,13 +902,6 @@ https://joaquinito02.es/vavoo/2621653193.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/1459109869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POBEDA (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POBEDA (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/89509270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRAVO (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PRAVO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -965,13 +930,6 @@ https://joaquinito02.es/vavoo/283945520.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3922372395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRO100 TV (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PRO100 TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/1240425920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PYATNICA (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PYATNICA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1182,13 +1140,6 @@ https://joaquinito02.es/vavoo/2307271920.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2914341648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TB ЦЕНТР (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TB ЦЕНТР (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/4178923922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBC (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TBC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1203,13 +1154,6 @@ https://joaquinito02.es/vavoo/2026484172.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/1466461372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THT 4 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",THT 4 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/316704812.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THT MUSIC (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",THT MUSIC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1301,13 +1245,6 @@ https://joaquinito02.es/vavoo/459517308.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2109325135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 1000 PYCCKOE (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV 1000 PYCCKOE (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/3865793557.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CENTER (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV CENTER (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1483,6 +1420,13 @@ https://joaquinito02.es/vavoo/3014432004.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/306493291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ДОМАШНИЙ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ДОМАШНИЙ (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2492236644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ЕВРОКИНО (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ЕВРОКИНО (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1581,6 +1525,13 @@ https://joaquinito02.es/vavoo/2592920464.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/4196979288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="МУЖСКОЕ КИНО (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",МУЖСКОЕ КИНО (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1450089233.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="МУЗ СОЮЗ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",МУЗ СОЮЗ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1602,13 +1553,6 @@ https://joaquinito02.es/vavoo/964296154.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3490825523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="НАШЕ НОВОЕ КИНО (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НАШЕ НОВОЕ КИНО (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/4137105023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="НТВ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1616,13 +1560,6 @@ https://joaquinito02.es/vavoo/4137105023.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/983685089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="НТВ МИР (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ МИР (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/2599949384.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="НТВ СЕРИАЛ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ СЕРИАЛ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1672,6 +1609,27 @@ https://joaquinito02.es/vavoo/391217055.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2790952858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РОССИЯ 1 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РОССИЯ 1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3481977357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РОССИЯ 24 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РОССИЯ 24 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4222955791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РОССИЯ-1 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РОССИЯ-1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1930744275.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="РОССИЯ-К (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РОССИЯ-К (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1686,6 +1644,20 @@ https://joaquinito02.es/vavoo/251251633.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2697620204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РУССКАЯ-КОМЕДИЯ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РУССКАЯ-КОМЕДИЯ (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1756026494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РУССКИЙ-БЕСТСЕЛЛЕР (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РУССКИЙ-БЕСТСЕЛЛЕР (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3483122865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="РУССКИЙ-ДЕТЕКТИВ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РУССКИЙ-ДЕТЕКТИВ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1700,13 +1672,6 @@ https://joaquinito02.es/vavoo/3415446059.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2702195528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="РУССКИЙ-РОМАН (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РУССКИЙ-РОМАН (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/4151010736.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="СТРАНА FM (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",СТРАНА FM (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2582,13 +2547,6 @@ https://joaquinito02.es/vavoo/3343714768.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3375899100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="КИНОСЕМЬЯ (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",КИНОСЕМЬЯ (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/7825875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="КИНОСЕРИЯ (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",КИНОСЕРИЯ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2890,13 +2848,6 @@ https://joaquinito02.es/vavoo/4020598586.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2506433626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="НТВ +8 (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ +8 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/710253115.m3u8
 #EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3044,6 +2995,13 @@ https://joaquinito02.es/vavoo/2820519021.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3537757965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РОССИЯ 1 +8 (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РОССИЯ 1 +8 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1844271468.m3u8
 #EXTINF:-1 tvg-id="russia1.ru" tvg-name="РОССИЯ 1 HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РОССИЯ 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
