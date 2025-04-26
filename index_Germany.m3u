@@ -4808,13 +4808,6 @@ https://joaquinito02.es/vavoo/2394939941.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2117081170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (BACKUP) (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISNEY JUNIOR (BACKUP) (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/3528502381.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DK4 (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DK4 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6082,6 +6075,13 @@ https://joaquinito02.es/vavoo/207344905.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/1294614502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERVUS TV HD (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SERVUS TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2072482019.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SERVUS TV HD+ (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SERVUS TV HD+ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7391,6 +7391,13 @@ https://joaquinito02.es/vavoo/2279462690.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/1612689771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V SPORT GOLF (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",V SPORT GOLF (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/343931295.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VH1 CLASSIC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

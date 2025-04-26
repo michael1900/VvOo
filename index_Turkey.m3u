@@ -4668,6 +4668,13 @@ https://joaquinito02.es/vavoo/960578312.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/31596047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: SPORTS TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: SPORTS TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2429298798.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: STAR TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: STAR TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4759,13 +4766,6 @@ https://joaquinito02.es/vavoo/3029180506.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2262969938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: TRT SPOR YILDIZ (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: TRT SPOR YILDIZ (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/2750507083.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: TRT T RK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: TRT T RK (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5788,6 +5788,13 @@ https://joaquinito02.es/vavoo/541406431.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3571625991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DINAMIK KOMEDI (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DINAMIK KOMEDI (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1764108510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DINAMIK KORKU (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DINAMIK KORKU (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
